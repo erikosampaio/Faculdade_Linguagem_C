@@ -1,10 +1,3 @@
-/******************************************************************************
-Programa ----->>> Roleta aleatória <<-----. Esse jogo tem como finalidade uma
-disputa de sorte entre você e o computador. Tanto você quanto sorteará numeros
-aleatórios, ganhando a rodada quem sortear o número maior. Você pode jogar
-quantas vezes quiser. Nesse jogo, ganha quem acumular a maior pontuação.
-Não vai empatar, hein!
-*******************************************************************************/
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
