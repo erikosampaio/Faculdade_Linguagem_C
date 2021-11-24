@@ -1,0 +1,3 @@
+- O jogo deve permitir que o usuário jogue quantas partidas desejar. Quando o usuário desistir de jogar deve ser apresentado a quantidade de partidas, de derrotas e de vitórias.
+
+- Em cada partida deve ser gerado uma matriz 10 x 10 de valores aleatórios entre 0 e 9 e um vetor com 3 números aleatórios pertencentes à matrícula do aluno que estiver implementando o jogo. O programa deve exibir a matriz e o vetor e solicitar que o usuário digite a quantidade de vezes que cada um dos valores do vetor aparecem na matriz. Caso o usuário acerte as três quantidades ele será decretado vencedor da partida, caso contrário, ele terá perdido.
